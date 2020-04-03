@@ -10,4 +10,4 @@ Ultimately, I came to these results: Cluster 4 has higher instructional expendit
 
 Thus, using my analysis I can make suggestions for those in either different income brackets or those wanting to see which colleges are worth their money in the long run. Ultimately, Cluster 3 and Cluster 4 are the two most worth the time and effort. If one has a wealthy family or financial aid, the schools in Cluster 4 have the best results for median earnings after graduation. However, won't be receiving financial aid and doesn't have a wealthy family, schools in Cluster 3 make the most sense. Cluster 3 has around the same results for median earnings as Cluster 2 does for significantly less tuition cost. However, schools in Cluster 1 are the most affordable and can still have decent results.
 
-![SpendingVSTuition](./graphs/SpendingVSTuition.PNG) (Figure 1 - Cluster Model Graph for Spending vs Tuition)
+![SpendingVSTuition](./Graphs/SpendingVSTuition.PNG) (Figure 1 - Cluster Model Graph for Spending vs Tuition)
