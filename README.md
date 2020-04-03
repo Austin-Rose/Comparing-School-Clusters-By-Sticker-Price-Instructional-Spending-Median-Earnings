@@ -22,5 +22,11 @@ Thus, using my analysis I can make suggestions for those in either different inc
 
 (Figure 3 - Cluster Model Graph for Median Earnings vs Spending)
 
+Links:
+
 [My Data Spreadsheet](Data.xlsx)
+
+[Images](./Graphs)
+
+
 [Opportunity Insights Data Sets](https://opportunityinsights.org/data/?geographic_level=100&topic=105&paper_id=0#resource-listing)
