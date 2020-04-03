@@ -16,4 +16,8 @@ Thus, using my analysis I can make suggestions for those in either different inc
 
 ![MedEarningsVSTuition](./Graphs/MedEarningsVSTuition.png) 
 
-(Figure 1 - Cluster Model Graph for Spending vs Tuition
+(Figure 2 - Cluster Model Graph for Median Earnings vs Tuition)
+
+![MedEarningsVSSpending](./Graphs/MedEarningsVSSpending.png) 
+
+(Figure 3 - Cluster Model Graph for Median Earnings vs Spending)
