@@ -1,6 +1,0 @@
-echo "# What-Schools-Maximize-Tuition-For-Money-Spent-Per-Student-And-Higher-Income" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Austin-Rose/What-Schools-Maximize-Tuition-For-Money-Spent-Per-Student-And-Higher-Income.git
-git push -u origin master
